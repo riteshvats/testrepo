@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FEE0-819A
+
+ Directory of C:\Users\HP PC\Desktop\Tools\GIT\Git-project
+
+01-11-2018  11:35    <DIR>          .
+01-11-2018  11:35    <DIR>          ..
+01-11-2018  11:34    <DIR>          .git
+01-11-2018  11:36                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  128,029,970,432 bytes free
